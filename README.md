@@ -2,7 +2,8 @@
 
 A data science initiative to forecast real estate property values across various neighborhoods in **Mumbai**, India. This project uses **Python**, **Flask**, and **Machine Learning (Linear Regression & XGBoost)** to provide property price estimations based on user inputs such as area, location, and amenities.
 
-![screenshot](./assets/ui.png)
+![screenshot](.<img width="1917" height="923" alt="ui" src="https://github.com/user-attachments/assets/9f34fa49-58fc-437f-bcf7-e36b483504ed" />
+)
 ---
 
 ## 📘 Description
